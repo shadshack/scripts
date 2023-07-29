@@ -1,3 +1,5 @@
+# Add users to an AD group for access to a file share
+
 # Prompt for network path
 $networkPath = Read-Host "Enter network path"
 

@@ -1,3 +1,4 @@
+REM Pings and writes timestamped results to pinglog.txt
 @echo off
 del pinglog.txt
 echo Pinging and writing results to pinglog.txt

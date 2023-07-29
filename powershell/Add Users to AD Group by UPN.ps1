@@ -1,3 +1,4 @@
+# Bulk add users to an AD group by UPN instead of SAMAccountName.
 $users = "user.1@email.com",
 "user.2@email.com"
 

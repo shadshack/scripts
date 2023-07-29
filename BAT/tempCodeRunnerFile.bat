@@ -1,4 +1,4 @@
-REM Just does a ping test and outputs to a file. Doesn't log anything to the console other than a big message saying to leave it alone. Useful for running on a customer's PC and then coming back later to check the results.
+
 @echo off
 title Testing Network. DO NOT CLOSE THIS WINDOW.
 color c0

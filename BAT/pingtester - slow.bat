@@ -1,3 +1,4 @@
+REM Pings and writes timestamped results to pinglog.txt - but with a 1 second delay between pings.
 @echo off
 del pinglog.txt
 echo Pinging and writing results to pinglog.txt

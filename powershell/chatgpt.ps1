@@ -1,3 +1,5 @@
+# Use this script to interact with the ChatGPT API
+
 # Set your API key and endpoint
 # Get your API key here - https://platform.openai.com/account/api-keys
 $apiKey = "..."

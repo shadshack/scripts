@@ -1,3 +1,5 @@
+# Bulk install SNMP on remote servers and configure SNMP Traps
+
 $SNMP_Community = "public"
 
 # Start transcript

@@ -1,3 +1,6 @@
+REM Title: Beep when internet comes up
+REM Description: Pings Google DNS until it gets a response, then beeps. Useful for when you're waiting for your internet to come back up after a power outage.
+
 @setlocal enableextensions enabledelayedexpansion
 @echo off
  :loop

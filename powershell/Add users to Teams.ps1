@@ -1,3 +1,4 @@
+# Bulk add users to a MS Team
 # Connect to Teams
 Connect-MicrosoftTeams
 

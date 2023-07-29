@@ -1,4 +1,4 @@
-# Compares the users in an AD group to the users with a specific license
+# Compares the users in an AD group to the users with a specific license. Useful for auditing changes when you're creating a dynamic AAD group to apply a license to.
 
 $groupID = "00000000-0000-0000-0000-000000000000"
 $licenseSKU = "ENTERPRISEPACK_GOV"
