@@ -1,6 +1,6 @@
 # Compares the users in an AD group to the users with a specific license
 
-$groupID = "d3f44425-1252-4dd1-8cd0-84308f8c18d5"
+$groupID = "00000000-0000-0000-0000-000000000000"
 $licenseSKU = "ENTERPRISEPACK_GOV"
 
 # Log in

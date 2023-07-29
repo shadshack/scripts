@@ -1,4 +1,4 @@
-$SNMP_Community = "DCFntga##"
+$SNMP_Community = "public"
 
 # Start transcript
 Start-Transcript -Path ".\SNMP_Install.log"

@@ -14,8 +14,8 @@ if ((Test-NetConnection -ComputerName $smtpServer -Port $smtpPort).TcpTestSuccee
   Send-MailMessage -To $recipientAddress `
   -From $senderAddress `
   -Subject "Test mail $(Get-Date -Format 'HH:mm MM/dd/yyyy')" `
-  -SmtpServer smtpout.dcf.state.fl.us `
-  -Port 25 `
+  -SmtpServer $smtpServer `
+  -Port $smtpPort `
   -Body 'This is a test email'
 }
 else{
